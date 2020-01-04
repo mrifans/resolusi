@@ -3,5 +3,6 @@ Rencana konten
 -javascript
   *ES6
   *Framework Javacript
+  -fundamental Data Struktur
 -php framework
 -interview
